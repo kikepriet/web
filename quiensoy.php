@@ -7,6 +7,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/estilos.css">
     <link rel="stylesheet" href="css/animate.css">
     <link rel="shortcut icon" type="image/x-icon" href="images/icono.jpg" />
 
@@ -38,11 +39,11 @@
 
         <div class="container">
             <div class="row my-5">
-                <div class="col-12 col-lg-3"><img class="rounded mx-auto d-block img-fluid wow flipInX" src="images/icono.jpg" alt=""></div>
+                <div class="col-12 col-lg-3"><img class="rounded mx-auto d-block img-fluid wow flipInX cara" src="images/icono.jpg" alt=""></div>
                 <div class="col-12 col-lg-9 wow fadeIn delay-2s">
-                    <h1 class="text-center">¿Quién soy?</h1>
-                    <p class="text-justify">Me llamo <strong>Enrique</strong>, estudié <strong>diseño gráfico</strong> en la Universidad Metropolitana, lo que más me impactó de la carrera fue el <strong>diseño web</strong>, desde entonces comencé a especializarme en algunas tecnologías como <strong>HTML5</strong>, CSS3, JavaScript, Php, MySQL, entre otros. He participado en la creación de <strong>sitios web</strong> para particulares. <strong>Realicé una aplicación con Laravel</strong> para digitalizar el proceso de administración de 3 salas que eran utilizadas para impartir programas presenciales de educación continua.</p>
-                    <p class="mb-5">puedes ver más detalles del proyecto <a href="#">aquí.</a></p>
+                    <h1 class="text-center quien_soy">¿Quién soy?</h1>
+                    <p class="text-justify quien_soy_txt">Me llamo <strong>Enrique</strong>, estudié <strong>diseño gráfico</strong> en la Universidad Metropolitana, lo que más me impactó de la carrera fue el <strong>diseño web</strong>, desde entonces comencé a especializarme en algunas tecnologías como <strong>HTML5</strong>, CSS3, JavaScript, Php, MySQL, entre otros. He participado en la creación de <strong>sitios web</strong> para particulares. <strong>Realicé una aplicación con Laravel</strong> para digitalizar el proceso de administración de 3 salas que eran utilizadas para impartir programas presenciales de educación continua.</p>
+                    <p class="mb-5 quien_soy_txt">puedes ver más detalles del proyecto <a href="#">aquí.</a></p>
                     <p class="mb-5">&nbsp</p>
                 </div>
             </div>
@@ -52,11 +53,11 @@
             <a class="navbar-brand" href="#"></a>
             <ul class="navbar-nav m-auto">
                 <li class="nav-item d-flex">
-                    <a class="nav-link text-center mx-2" href="#"><img src="images/facebook.png" width="50" alt=""></a>
-                    <a class="nav-link text-center mx-2" href="#"><img src="images/twitter.png" width="50" alt=""></a>
-                    <a class="nav-link text-center mx-2" href="#"><img src="images/github.png" width="50" alt=""></a>
-                    <a class="nav-link text-center mx-2" href="#"><img src="images/linkedin.png" width="50" alt=""></a>
-                    <a class="nav-link text-center mx-2" href="#"><img src="images/youtube.png" width="50" alt=""></a>
+                    <a class="nav-link text-center mx-2 social" href="#"><img src="images/facebook.png" width="50" alt=""></a>
+                    <a class="nav-link text-center mx-2 social" href="#"><img src="images/twitter.png" width="50" alt=""></a>
+                    <a class="nav-link text-center mx-2 social" href="#"><img src="images/github.png" width="50" alt=""></a>
+                    <a class="nav-link text-center mx-2 social" href="#"><img src="images/linkedin.png" width="50" alt=""></a>
+                    <a class="nav-link text-center mx-2 social" href="#"><img src="images/youtube.png" width="50" alt=""></a>
                 </li>
             </ul>
         </nav>

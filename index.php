@@ -19,7 +19,7 @@
   <body>
     <div class="imagen_index d-flex justify-content-center">
         <div class="d-flex align-items-end">
-            <img class="img-fluid wow bounceInDown" src="images/logo_index.png" alt="">
+            <img class="img-fluid wow bounceInDown logo" src="images/logo_index.png" alt="">
         </div>
     </div>
     <div class="imagen_index d-flex justify-content-center">
