@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="css/estilos.css">
     <link rel="stylesheet" href="css/animate.css">
+    <link rel="shortcut icon" type="image/x-icon" href="images/icono.jpg" />
 
     <title>kikepriet website</title>
   </head>
@@ -24,7 +25,7 @@
     <div class="imagen_index d-flex justify-content-center">
         <ul class="nav mt-5 wow fadeInLeft" data-wow-delay="2s">
             <li class="nav-item  text_index">
-                <a href="#" class="nav-link">¿Quién soy?</a>
+                <a href="quiensoy.php" class="nav-link">¿Quién soy?</a>
             </li>
             <li class="nav-item  text_index">
                 <a href="#" class="nav-link">¿Qué hago?</a>
